@@ -111,5 +111,7 @@ Contributed to [Frappe Framework](https://github.com/SiddhiK13/frappe) by allowi
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=siddhik13&show_icons=true&locale=en" alt="siddhik13" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=siddhik13&" alt="siddhik13" /></p>
+<p>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SiddhiK13" alt="SiddhiK13" />
+</p>
 
