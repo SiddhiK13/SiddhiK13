@@ -1,24 +1,112 @@
-<h1 align="center">Hi 👋, I'm Siddhi Kshirsagar!</h1>
-<h3 align="center">Hi 👋, I'm Siddhi Kshirsagar! 🚀 Java Developer | Aspiring Web Developer Passionate about coding and building impactful applications.</h3>
+<h1 align="center">Hi 👋, I'm Siddhi Kshirsagar</h1>
+<h3 align="center">🚀 Java Developer | Full Stack Web Developer | Frappe Contributor | Passionate About Clean Code & Building Scalable Solutions</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=siddhik13&label=Profile%20views&color=0e75b6&style=flat" alt="siddhik13" /> </p>
-
-- 🔭 I’m currently working on [Restaurant Website](https://github.com/SiddhiK13/Restaurant)
-
-- 👨‍💻 All of my projects are available at [https://github.com/SiddhiK13](https://github.com/SiddhiK13)
-
-- 📫 How to reach me **siddhikshirsagar1306@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/siddhi kshirsagar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="siddhi kshirsagar" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=SiddhiK13&label=Profile%20views&color=0e75b6&style=flat" alt="SiddhiK13" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=siddhik13&show_icons=true&locale=en&layout=compact" alt="siddhik13" /></p>
+## 👩‍💻 About Me
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=siddhik13&show_icons=true&locale=en" alt="siddhik13" /></p>
+✨ I’m a passionate Computer Engineering student with a strong focus on Java and modern web technologies. I love building applications that solve real-world problems with elegant code.
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=siddhik13&" alt="siddhik13" /></p>
+💼 I've contributed to open-source frameworks like [Frappe](https://github.com/frappe/frappe) and built various web apps ranging from restaurant sites to car rental platforms.
+
+🛠️ Constantly learning and upskilling through side projects, internships, and open-source work.
+
+---
+
+## 🔭 Currently Working On
+
+- 🧩 Enhancing Frappe’s Data Export tool (added support for exporting standard fields)
+- 🍽️ [Restaurant Website](https://github.com/SiddhiK13/Restaurant) with interactive frontend & backend logic
+- 💼 Building out my personal developer portfolio – [View Repo](https://github.com/SiddhiK13/Siddhi-Portfolio)
+-🧠 Exploring AI-based integrations with low-code platforms
+---
+
+## 🌟 Highlight Projects
+
+### 💰 Finance Management System  
+A secure, responsive app to manage income, expenses, and savings goals:  
+- Built using **PHP**, **MySQL**, **Bootstrap**, and **Chart.js**  
+- Supports user authentication, category tracking, and analytics  
+- Designed with mobile-first responsive UI 
+
+### ✅ Frappe Contribution – Data Export Enhancement  
+Contributed to [Frappe Framework](https://github.com/SiddhiK13/frappe) by allowing export of standard fields (like `owner`, `creation`, `modified_by`, etc.) from DocTypes in the Data Export tool.  
+🔗 [Pull Request #XXXX (update this when merged)](https://github.com/frappe/frappe/pulls)
+
+### 🚗 [Car Rental Website](https://github.com/SiddhiK13/Car-Rental-Web)  
+A responsive web platform to browse, filter, and book rental cars. Built using HTML, CSS, JS.
+
+### 🍽️ [Restaurant Website](https://github.com/SiddhiK13/Restaurant)  
+Dynamic and responsive frontend for a restaurant site with menu, gallery, and contact forms.
+
+### 🧠 [Mental Health Web](https://github.com/SiddhiK13/Mental-Health-Web)  
+A front-end focused application aimed at mental health awareness.
+
+### 📄 [Siddhi Portfolio](https://github.com/SiddhiK13/Siddhi-Portfolio)  
+My personal portfolio showcasing my work, skills, and background.
+
+---
+## 💼 Internship Experience
+
+**Full Stack Intern @ Edunet Foundation (EYGDS)**  
+- Built a **Finance Management System** with MERN
+- Integrated secure REST APIs & dashboards
+
+**Intern @ Devine Tech**  
+- Developed e-Stationery website with authentication, shopping cart, and admin panel
+
+---
+
+## 🛠️ Tech Stack
+
+**Languages:**  
+`Java` | `JavaScript` | `HTML` | `CSS` | `SQL` |`Python` |`PHP`
+
+**Frameworks & Tools:**  
+`WordPress` | `Bootstrap` | `React` | `Node.js` | `Express` | `MongoDB` | `MySQL` | `GitHub` | `Postman` | `VS Code`
+
+---
+
+## 🏆 Achievements
+
+- ✅ **Open Source Contributor**  
+  Contributed to [Frappe Framework](https://github.com/frappe/frappe) by enhancing the Data Export functionality to support system fields like `owner`, `creation`, `modified_by`, etc.
+
+- 🌐 **Built 9+ Full Stack Projects**  
+  Developed real-world applications including a **Personal Finance Manager**, **Car Rental Website**, **Restaurant Web App**, and **Mental Health Platform** using technologies like Java, PHP, MERN stack, and WordPress.
+
+- 📝 **Research Publication**  
+  Published a research paper titled **"AI-Powered Smart Stick for Visually Impaired with GPS & Obstacle Detection"** in the *International Journal of Advanced Research in Computer and Communication Engineering (IJARCCE)*, ISSN: 2278-1021.
+
+- 🌟 **AICTE-EY Digital Skills Internship**  
+  Completed a government-backed internship in Full Stack Development and Cloud with hands-on training in Java, HTML, CSS, JS, and REST APIs.
+
+- 💼 **Internship Experience**  
+  Delivered functional applications during internships at **Devine Tech** and **Edunet Foundation**, including UI design, backend integration, and deployment.
+
+- 👩‍💻 **Consistent Open Source Activity**  
+  10+ commits across various GitHub repositories including Frappe, Habitica, and personal portfolio projects.
+
+---
+
+## 📫 Let's Connect!
+
+- 📧 Email: **siddhikshirsagar1306@gmail.com**
+- 💼 GitHub: [@SiddhiK13](https://github.com/SiddhiK13)
+- 🔗 LinkedIn: [Siddhi Kshirsagar](https://www.linkedin.com/in/siddhi-kshirsagar04)
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SiddhiK13&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api?username=SiddhiK13&show_icons=true&locale=en" alt="GitHub Stats" />
+  <br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SiddhiK13" alt="GitHub Streak" />
+</p>
