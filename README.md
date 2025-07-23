@@ -107,11 +107,16 @@ Contributed to [Frappe Framework](https://github.com/SiddhiK13/frappe) by allowi
 
 ## 📊 GitHub Stats
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=siddhik13&show_icons=true&locale=en&layout=compact" alt="SiddhiK13" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=siddhik13&show_icons=true&locale=en" alt="SiddhiK1313" /></p>
-
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SiddhiK13" alt="SiddhiK13" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SiddhiK13&show_icons=true&locale=en&layout=compact" alt="SiddhiK13 Top Languages" />
 </p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SiddhiK13&show_icons=true&locale=en" alt="SiddhiK13 GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SiddhiK13" alt="SiddhiK13 GitHub Streak" />
+</p>
+
 
