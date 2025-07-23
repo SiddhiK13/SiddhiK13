@@ -33,21 +33,25 @@ A secure, responsive app to manage income, expenses, and savings goals:
 - Supports user authentication, category tracking, and analytics  
 - Designed with mobile-first responsive UI 
 
-### ✅ Frappe Contribution – Data Export Enhancement  
-Contributed to [Frappe Framework](https://github.com/SiddhiK13/frappe) by allowing export of standard fields (like `owner`, `creation`, `modified_by`, etc.) from DocTypes in the Data Export tool.  
-🔗 [Pull Request #XXXX (update this when merged)](https://github.com/frappe/frappe/pulls)
 
 ### 🚗 [Car Rental Website](https://github.com/SiddhiK13/Car-Rental-Web)  
 A responsive web platform to browse, filter, and book rental cars. Built using HTML, CSS, JS.
 
+
 ### 🍽️ [Restaurant Website](https://github.com/SiddhiK13/Restaurant)  
 Dynamic and responsive frontend for a restaurant site with menu, gallery, and contact forms.
+
 
 ### 🧠 [Mental Health Web](https://github.com/SiddhiK13/Mental-Health-Web)  
 A front-end focused application aimed at mental health awareness.
 
+
 ### 📄 [Siddhi Portfolio](https://github.com/SiddhiK13/Siddhi-Portfolio)  
 My personal portfolio showcasing my work, skills, and background.
+
+### ✅ Frappe Contribution – Data Export Enhancement  
+Contributed to [Frappe Framework](https://github.com/SiddhiK13/frappe) by allowing export of standard fields (like `owner`, `creation`, `modified_by`, etc.) from DocTypes in the Data Export tool.  
+(https://github.com/frappe/frappe/pulls)
 
 ---
 ## 💼 Internship Experience
@@ -103,7 +107,7 @@ My personal portfolio showcasing my work, skills, and background.
 
 ## 📊 GitHub Stats
 
-<p align="center">
+<p>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SiddhiK13&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
   <br>
   <img src="https://github-readme-stats.vercel.app/api?username=SiddhiK13&show_icons=true&locale=en" alt="GitHub Stats" />
