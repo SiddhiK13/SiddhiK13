@@ -26,7 +26,7 @@
 
 ## 🌟 Highlight Projects
 
-### 💰 Finance Management System  
+### 💰 [Finance Management System](https://github.com/SiddhiK13/AICTE_internship_FinalProject)  
 A secure, responsive app to manage income, expenses, and savings goals:  
 - Built using **PHP**, **MySQL**, **Bootstrap**, and **Chart.js**  
 - Supports user authentication, category tracking, and analytics  
