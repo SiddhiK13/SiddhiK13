@@ -17,13 +17,6 @@
 
 ---
 
-## 🔭 Currently Working On
-
-- 🍽️ [Restaurant Website](https://github.com/SiddhiK13/Restaurant) with interactive frontend & backend logic
-- 💼 Building out my personal developer portfolio – [View Repo](https://github.com/SiddhiK13/Siddhi-Portfolio)
--🧠 Exploring AI-based integrations with low-code platforms
----
-
 ## 🌟 Highlight Projects
 
 ### 💰 [Finance Management System](https://github.com/SiddhiK13/AICTE_internship_FinalProject)  
