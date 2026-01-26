@@ -1,5 +1,8 @@
 <h1 align="center">Hi 👋, I'm Siddhi Kshirsagar</h1>
-<h3 align="center">🚀 Java Developer | Full Stack Web Developer | Passionate About Clean Code & Building Scalable Solutions</h3>
+<h3 align="center">
+🚀 Java Developer | Full Stack Web Developer <br/>
+💡 Passionate about Clean Code, Scalable Systems & Real-World Solutions
+</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=SiddhiK13&label=Profile%20views&color=0e75b6&style=flat" alt="SiddhiK13" />
@@ -9,83 +12,93 @@
 
 ## 👩‍💻 About Me
 
-✨ I’m a passionate Computer Engineering student with a strong focus on Java and modern web technologies. I love building applications that solve real-world problems with elegant code.
+✨ Computer Engineering student with a strong foundation in **Java** and **Full Stack Web Development**.  
+✨ I enjoy transforming ideas into **efficient, scalable, and user-friendly applications**.  
+✨ Hands-on experience through **internships, open-source contributions, and real-world projects**.  
+✨ Constantly learning and improving through building, breaking, and rebuilding 🚀  
 
-💼 I've contributed to open-source frameworks and built various web apps ranging from restaurant sites to car rental platforms.
+---
 
-🛠️ Constantly learning and upskilling through side projects, internships, and open-source work.
+## 🌟 Featured Projects
+
+### 💰 [Finance Management System](https://github.com/SiddhiK13/AICTE_internship_FinalProject)
+A secure and responsive application to manage income, expenses, and savings goals.  
+**Tech Stack:** PHP, MySQL, Bootstrap, Chart.js  
+- 🔐 User authentication & secure data handling  
+- 📊 Expense categorization and visual analytics  
+- 📱 Mobile-first responsive UI  
 
 ---
 
-## 🌟 Highlight Projects
-
-### 💰 [Finance Management System](https://github.com/SiddhiK13/AICTE_internship_FinalProject)  
-A secure, responsive app to manage income, expenses, and savings goals:  
-- Built using **PHP**, **MySQL**, **Bootstrap**, and **Chart.js**  
-- Supports user authentication, category tracking, and analytics  
-- Designed with mobile-first responsive UI 
-
-
-### 🚗 [Car Rental Website](https://github.com/SiddhiK13/Car-Rental-Web)  
-A responsive web platform to browse, filter, and book rental cars. Built using HTML, CSS, JS.
-
-
-### 🍽️ [Restaurant Website](https://github.com/SiddhiK13/Restaurant)  
-Dynamic and responsive frontend for a restaurant site with menu, gallery, and contact forms.
-
-
-### 🧠 [Mental Health Web](https://github.com/SiddhiK13/Mental-Health-Web)  
-A front-end focused application aimed at mental health awareness.
-
-
-### 📄 [Siddhi Portfolio](https://github.com/SiddhiK13/Siddhi-Portfolio)  
-My personal portfolio showcasing my work, skills, and background.
+### 🚗 [Car Rental Website](https://github.com/SiddhiK13/Car-Rental-Web)
+A responsive web platform to browse, filter, and book rental cars.  
+**Tech Stack:** HTML, CSS, JavaScript  
 
 ---
+
+### 🧠 [Mental Health Web App](https://github.com/SiddhiK13/Mental-Health-Web)
+A front-end focused application aimed at promoting **mental health awareness**.
+
+---
+
+### 📄 [Personal Portfolio](https://github.com/SiddhiK13/Siddhi-Portfolio)
+My personal portfolio showcasing projects, skills, and experience.
+
+---
+
 ## 💼 Internship Experience
 
-**Full Stack Intern @ Edunet Foundation (EYGDS)**  
-- Built a **Finance Management System** with MERN
-- Integrated secure REST APIs & dashboards
+### 🏢 Full Stack Intern — **Edunet Foundation (AICTE–EY GDS)**
+- Built a **Finance Management System** using **MERN Stack**
+- Designed dashboards and integrated secure REST APIs
+- Worked on real-world problem statements under industry mentorship
 
-**Intern @ Devine Tech**  
-- Developed e-Stationery website with authentication, shopping cart, and admin panel
+### 🏢 Web Development Intern — **Devine Tech**
+- Developed an **e-Stationery website**
+- Implemented authentication, shopping cart, and admin panel
+- Worked on frontend UI and backend integration
 
 ---
 
 ## 🛠️ Tech Stack
 
 **Languages:**  
-`Java` | `JavaScript` | `HTML` | `CSS` | `SQL` |`Python` |`PHP`
+`Java` `JavaScript` `HTML` `CSS` `SQL` `Python` `PHP`
 
 **Frameworks & Tools:**  
-`WordPress` | `Bootstrap` | `React` | `Node.js` | `Express` | `MongoDB` | `MySQL` | `GitHub` | `Postman` | `VS Code`
+`React` `Node.js` `Express` `MongoDB` `MySQL`  
+`Bootstrap` `WordPress` `Git` `GitHub` `Postman` `VS Code`
 
 ---
 
-## 🏆 Achievements
+## 🏆 Achievements & Highlights
 
 - ✅ **Open Source Contributor**  
-  Contributed to Various Project as got selected as a Contributer for GSSOC 2025.
+  Selected contributor for **GSSoC 2025**, with contributions across multiple repositories.
 
-- 🌐 **Built 9+ Full Stack Projects**  
-  Developed real-world applications including a **Personal Finance Manager**, **Car Rental Website**, **Restaurant Web App**, and **Mental Health Platform** using technologies like Java, PHP, MERN stack, and WordPress.
+- 🌐 **9+ Full Stack Projects**  
+  Built production-style applications including:
+  - Personal Finance Manager  
+  - Car Rental Platform  
+  - Restaurant Web App  
+  - Mental Health Awareness Platform  
 
 - 📝 **Research Publication**  
-  Published a research paper titled **"AI-Powered Smart Stick for Visually Impaired with GPS & Obstacle Detection"** in the *International Journal of Advanced Research in Computer and Communication Engineering (IJARCCE)*, ISSN: 2278-1021.
+  Published *“AI-Powered Smart Stick for Visually Impaired with GPS & Obstacle Detection”*  
+  📘 *International Journal of Advanced Research in Computer and Communication Engineering (IJARCCE)*  
+  ISSN: 2278-1021
 
-- 🌟 **AICTE-EY Digital Skills Internship**  
-  Completed a government-backed internship in Full Stack Development and Cloud with hands-on training in Java, HTML, CSS, JS, and REST APIs.
+- 🌟 **AICTE–EY Digital Skills Internship**  
+  Government-backed internship with hands-on experience in:
+  Java, Web Development, REST APIs & Cloud Fundamentals
 
-- 💼 **Internship Experience**  
-  Delivered functional applications during internships at **Devine Tech** and **Edunet Foundation**, including UI design, backend integration, and deployment.
-
-- 👩‍💻 **Consistent Open Source Activity**  
-  10+ commits across various GitHub repositories including Frappe, Habitica, and personal portfolio projects.
+- 👩‍💻 **Consistent GitHub Activity**  
+  10+ meaningful commits across open-source and personal projects  
+  (Frappe, Habitica, Portfolio, and more)
 
 ---
 
-## 📫 Let's Connect!
+## 📫 Let’s Connect
 
 - 📧 Email: **siddhikshirsagar1306@gmail.com**
 - 💼 GitHub: [@SiddhiK13](https://github.com/SiddhiK13)
@@ -96,16 +109,9 @@ My personal portfolio showcasing my work, skills, and background.
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SiddhiK13&show_icons=true&locale=en&layout=compact" alt="SiddhiK13 Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SiddhiK13&show_icons=true&layout=compact" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SiddhiK13&show_icons=true&locale=en" alt="SiddhiK13 GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=SiddhiK13&show_icons=true" alt="GitHub Stats" />
 </p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=SiddhiK13&theme=default" alt="SiddhiK13 GitHub Streak" />
-</p>
-
-
-
